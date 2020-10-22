@@ -1,2 +1,2 @@
 # C-Delegates-
-A Delegates program on C#
+A mathmatical operation program  using Delegates in C#
